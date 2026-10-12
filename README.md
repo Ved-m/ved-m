@@ -101,7 +101,7 @@ Diploma — Artificial Intelligence and Machine Learning
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: 
+- 💼 LinkedIn: https://www.linkedin.com/in/vedant-motale-55949225b/
 - 📧 Email: vedantmotale10@gmail.com
 - 🐙 GitHub: [@Ved-m](https://github.com/Ved-m)
 
